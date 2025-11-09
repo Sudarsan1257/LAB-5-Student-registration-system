@@ -12,11 +12,13 @@ university.
 a. Effective for Administration Purpose
 b. Cost effective
 c. Better Service
-### UML DIAGRAMS:
-
-
-
-
+# UML DIAGRAMS:
+## Use Case Diagram:
+## Class Diagram:
+## Activity Diagram:
+## Package Diagram:
+## Sequence Diagram:
+## Communication Diagram:
 
 ### RESULT:
 Thus the Student information system project was executed and the output was
